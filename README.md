@@ -1,2 +1,2 @@
-# html-portfolio
-portfolio of html projects
+# main-portfolio
+portfolio of projects
